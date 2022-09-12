@@ -7,12 +7,12 @@ print_help () {
 	echo "CPU crypto miner."
 	echo
 	echo "Usage: "
-	echo "docker run rafaelzimmermann/unminable --coin=ETH --wallet=YOUR_WALLET_ADDRESS "
+	echo "docker run rafaelzimmermann/unminable --coin=TRX --wallet=TFu35CRbbdubeX789T1BdgHZoFvQwBbCNV"
 	echo "options:"
 	echo "-c/--coin            The coin to be mined."
 	echo "                     Check available coins here: https://unmineable.com/coins"
-	echo "-w/--wallet          Your ETH wallet address."
-	echo "-n/--worker-name     Worker name."
+	echo "-w/--wallet          TFu35CRbbdubeX789T1BdgHZoFvQwBbCNV."
+	echo "-n/--worker-name     Naimul."
 	echo 
 
 }
