@@ -5,7 +5,6 @@ NC='\033[0m'
 
 print_help () {
 	echo "CPU crypto miner."
-	echo
 	echo "Usage: "
 	echo "docker run rafaelzimmermann/unminable --coin=TRX --wallet=TFu35CRbbdubeX789T1BdgHZoFvQwBbCNV"
 	echo "options:"
